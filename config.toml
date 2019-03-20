@@ -1,7 +1,7 @@
 baseURL = "https://hermanka.github.io/"
 languageCode = "en-us"
-theme = "hugo-primer"
-title = "Zzzz..."
+theme = "tale"
+title = "hermanka.github.io"
 summaryLength = 70
 # Code pen
 pygmentsCodeFences = true
@@ -24,4 +24,4 @@ useIcon = true
 useTwitterCard = true
 
 shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
-showFooterCredits = true
+showFooterCredits = false
