@@ -1,7 +1,7 @@
 baseURL = "https://hermanka.github.io/"
 languageCode = "en-us"
 theme = "tale"
-title = "hermanka.github.io"
+title = "HermanKabetta"
 summaryLength = 70
 # Code pen
 pygmentsCodeFences = true
@@ -21,7 +21,8 @@ description = "Describe what your web page is about"
 twitter = "your_twitter_id"
 # You can use favicon by addin them manually.
 useIcon = true
-useTwitterCard = true
+useTwitterCard = false
+author = "Herman Kabetta"
 
 shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = false
