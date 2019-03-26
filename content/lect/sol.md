@@ -19,3 +19,8 @@ Materi perkuliahan :
 - [Pertemuan 2 - Text Editor](../../files/sol/2019/2-Editor.pdf)
 
 - [Pertemuan 3 - Linux FS](../../files/sol/2019/3-LinuxFS.pdf)
+
+
+Referensi :
+
+[A Guide to Unix Using Linux 4th Edition](../../files/sol/2019/CourseBook.pdf)

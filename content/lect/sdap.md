@@ -12,7 +12,7 @@ Struktur data dan Algoritma Pemrograman 2019
 <!--more-->
 Materi perkuliahan :
 
-- [Pertemuan 1](../../files/sdap/2019/pertemuan_1.pdf){:target="_blank"}
+- [Pertemuan 1](../../files/sdap/2019/pertemuan_1.pdf)
 
 - [Pertemuan 2](../../files/sdap/2019/pertemuan_2.pdf)
 
