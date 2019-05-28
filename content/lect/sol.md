@@ -20,6 +20,19 @@ Materi perkuliahan :
 
 - [Pertemuan 3 - Linux FS](../../files/sol/2019/3-LinuxFS.pdf)
 
+- [Pertemuan 4 - Linux File Processing](../../files/sol/2019/4-LinuxFP.pdf)
+
+- [Pertemuan 5 - Shell Programming](../../files/sol/2019/5-ShellProgramming.pdf)
+
+- [Pertemuan 6 - Linux Utilities](../../files/sol/2019/6-LinuxUtils.pdf)
+
+- [Pertemuan 7 - Overview of Android OS](../../files/sol/2019/7-Android-brief.pdf)
+
+- [Pertemuan 8 - Android Security](../../files/sol/2019/8-Android-security.pdf)
+
+Unduhan lainnya :
+
+- [Contoh Literature Review](../../files/sol/2019/contoh-litrev.xlsx)
 
 Referensi :
 
