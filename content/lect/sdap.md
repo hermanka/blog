@@ -36,6 +36,14 @@ Modul Praktikum :
 
 - [Modul Praktikum 4](../../files/sdap/2019/praktikum_4.pdf)
 
+- [Modul Praktikum 5 - Intro C](../../files/sdap/2019/praktikum_5_CIntro.pdf)
+
+- [Modul Praktikum 6 - Struktur Dasar C](../../files/sdap/2019/praktikum_6_StrukturDasarC.pdf)
+
+- [Modul Praktikum 7 - Masukan dan Keluaran pada C](../../files/sdap/2019/praktikum_7_io.pdf)
+
+- [Modul Praktikum 8 - Kondisional IF](../../files/sdap/2019/praktikum_8_if-else.pdf)
+
 Nilai UTS :
 
 - [Download](../../files/sdap/2019/nilai_uts_sdap_2019.pdf)
