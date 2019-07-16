@@ -30,7 +30,10 @@ Materi perkuliahan :
 
 - [Pertemuan 8 - Android Security](../../files/sol/2019/8-Android-security.pdf)
 
-- [Pertemuan 9 - Windows Server Active Directory](../../files/sol/2019/9-WinServer.pdf)
+- [Pertemuan 9 - Windows Server : Active Directory](../../files/sol/2019/9-WinServer.pdf)
+
+- [Pertemuan 10 - Windows Server : File Server](../../files/sol/2019/10-WinServer-FileServer.pdf)
+
 
 Unduhan lainnya :
 

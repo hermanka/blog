@@ -26,6 +26,8 @@ Materi perkuliahan :
 
 - [Pertemuan 7](../../files/sdap/2019/pertemuan_7.pdf)
 
+- [Pertemuan 8](../../files/sdap/2019/pertemuan_8.pdf)
+
 Modul Praktikum :
 
 - [Modul Praktikum 1](../../files/sdap/2019/praktikum_1.pdf)
@@ -43,6 +45,14 @@ Modul Praktikum :
 - [Modul Praktikum 7 - Masukan dan Keluaran pada C](../../files/sdap/2019/praktikum_7_io.pdf)
 
 - [Modul Praktikum 8 - Kondisional IF](../../files/sdap/2019/praktikum_8_if-else.pdf)
+
+- [Modul Praktikum 9 - Switch Case dan Nested IF](../../files/sdap/2019/praktikum_9_switch-case-nested-if.pdf)
+
+- [Modul Praktikum 10 - Perulangan](../../files/sdap/2019/praktikum_10_looping.pdf)
+
+- [Modul Praktikum 11 - Fungsi](../../files/sdap/2019/praktikum_11_function.pdf)
+
+- [Modul Praktikum 12 - Implementasi algoritma](../../files/sdap/2019/praktikum_12_implementation.pdf)
 
 Nilai UTS :
 
