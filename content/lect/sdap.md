@@ -54,6 +54,18 @@ Modul Praktikum :
 
 - [Modul Praktikum 12 - Implementasi algoritma](../../files/sdap/2019/praktikum_12_implementation.pdf)
 
+- [Modul Praktikum 13 - Pointer & Struct](../../files/sdap/2019/praktikum_13_pointer_struct.pdf)
+
+- [Modul Praktikum 14 - Operasi File](../../files/sdap/2019/praktikum_14_operasi_file.pdf)
+
+Source Code :
+
+- [Bubble Sort](../../files/sdap/2019/sc_bubble-sort.cpp)
+
+- [Sequential Search](../../files/sdap/2019/sc_seq-search.cpp)
+
+- [Sequential Search (Alternatif)](../../files/sdap/2019/sc_seq-search-2.cpp)
+
 Nilai UTS :
 
 - [Download](../../files/sdap/2019/nilai_uts_sdap_2019.pdf)
