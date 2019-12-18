@@ -29,3 +29,7 @@ Materi perkuliahan :
 - [08 - Form Handling](../../files/webpro/2019/08-form-handling.pdf)
 
 - [09 - Cookie & Session](../../files/webpro/2019/09-cookie-session.pdf)
+
+- [10 - OOP in PHP](../../files/webpro/2019/10-php-oop.pdf)
+
+- 11 - Websocket, AJAX, REST, PWA, SPA, CMS SSG [topics](../../files/webpro/2019/11-presentation-topics.txt)

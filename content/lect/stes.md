@@ -20,6 +20,8 @@ Materi perkuliahan :
 
 - [04 - Test Case Development](../../files/softest/2019/04-testcase_development.pdf)
 
+- [05 - Testing Technique](../../files/softest/2019/05-testing_technique.pdf)
+
 
 Bahan lain :
 

@@ -18,6 +18,12 @@ Materi perkuliahan :
 
 - [03 - Centralized Authentication Services](../../files/oss/2019/03-centralized_authentication.pdf)
 
+- [04 - Pluggable Authentication Module](../../files/oss/2019/04-pam.pdf)
+
+- [05 - Securing Linux Filesystem](../../files/oss/2019/05-securing_linux_filesystem.pdf)
+
+- [06 - Securing Linux System](../../files/oss/2019/06-securing_linux_system.pdf)
+
 
 
 Homework :
