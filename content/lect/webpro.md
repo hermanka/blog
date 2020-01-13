@@ -32,4 +32,8 @@ Materi perkuliahan :
 
 - [10 - OOP in PHP](../../files/webpro/2019/10-php-oop.pdf)
 
-- 11 - Websocket, AJAX, REST, PWA, SPA, CMS SSG [topics](../../files/webpro/2019/11-presentation-topics.txt)
+- 11 - Presentation : Websocket, AJAX, REST, PWA, SPA, CMS SSG [(topics)](../../files/webpro/2019/11-presentation-topics.txt)
+
+- [12 - PHP MySQL](../../files/webpro/2019/12-php-mysql-tugas.pdf)
+
+- [13 - PHP MVC](../../files/webpro/2019/13-mvc.pdf)

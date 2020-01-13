@@ -24,7 +24,14 @@ Materi perkuliahan :
 
 - [06 - Securing Linux System](../../files/oss/2019/06-securing_linux_system.pdf)
 
+- [07 - Securing Linux System Network](../../files/oss/2019/07-securing_linux_system_network.pdf)
 
+
+
+
+Quiz :
+
+- [Quiz 1](../../files/oss/2019/quiz.pdf)
 
 Homework :
 
