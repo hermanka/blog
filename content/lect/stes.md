@@ -22,6 +22,12 @@ Materi perkuliahan :
 
 - [05 - Testing Technique](../../files/softest/2019/05-testing_technique.pdf)
 
+- [06 - Automation Testing Using Selenium](../../files/softest/2019/06-automation_test_selenium.pdf)
+
+- [07 - Jenkins](../../files/softest/2019/07-jenkins.pdf)
+
+- [08 - Mobile Test Automation using Appium](../../files/softest/2019/08-appium.pdf)
+
 
 Bahan lain :
 

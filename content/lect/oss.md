@@ -26,6 +26,7 @@ Materi perkuliahan :
 
 - [07 - Securing Linux System Network](../../files/oss/2019/07-securing_linux_system_network.pdf)
 
+- [08 - Windows Server Hardening](../../files/oss/2019/08-hardening_windows_server.pdf)
 
 
 
