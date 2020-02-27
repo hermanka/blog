@@ -2,7 +2,7 @@
 title: "Struktur Data dan Algoritma Pemrograman"
 date: 2019-03-06T13:41:51+07:00
 draft: false
-categories: lectures
+categories: archives
 tags:
 keywords:
 ---

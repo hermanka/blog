@@ -2,7 +2,7 @@
 title: "Sistem Operasi Lanjutan"
 date: 2019-03-05T22:11:16+07:00
 draft: false
-categories: lectures
+categories: archives
 tags:
 keywords:
 ---

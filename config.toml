@@ -17,7 +17,7 @@ copyright = "&copy;HK 2019"
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [params]
-description = "Describe what your web page is about"
+description = "Herman Kabetta's personal page"
 twitter = "your_twitter_id"
 # You can use favicon by addin them manually.
 useIcon = true
@@ -26,3 +26,24 @@ author = "Herman Kabetta"
 
 shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
 showFooterCredits = false
+
+[menu]
+
+  [[menu.main]]
+    identifire = "publications"
+    name = "Publications"
+    url = "/pubs"
+    weight = -100
+
+  [[menu.main]]
+    identifire = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = -110
+
+  [[menu.main]]
+    identifire = "home"
+    name = "Home"
+    url = "/"
+    weight = -120
+
