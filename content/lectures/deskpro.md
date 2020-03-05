@@ -12,5 +12,6 @@ Pemrograman Desktop 2020
 <!--more-->
 Materi perkuliahan :
 
-- [01 - Introduction](#)
+- [00 - Kontrak Perkuliahan](../../files/deskpro/2020/00-kontrak_deskpro.pdf)
 
+- [01 - Introduction](../../files/deskpro/2020/01-intro_deskpro.pdf)

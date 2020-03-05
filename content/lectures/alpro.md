@@ -12,5 +12,9 @@ Algoritma dan Pemrograman Lanjut 2020
 <!--more-->
 Materi perkuliahan :
 
-- [01 - Introduction](#)
+- [00 - Kontrak Perkuliahan](../../files/alpro/2020/00-kontrak_alprolan.pdf)
+
+- [01 - Introduction](../../files/alpro/2020/01-intro_alprolan.pdf)
+
+- [02 - Array](../../files/alpro/2020/02-array.pdf)
 
